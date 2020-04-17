@@ -1,2 +1,2 @@
 # openai-drivendata-challenge
-Using deep learning to classify the building material of rooftops (aerial imagery from South America)
+Using convolutional neural networks to classify the building material of rooftops (aerial imagery from South America)
