@@ -17,8 +17,7 @@ In this repository, we apply deep learning methods to classify the rooftop mater
 
 ## :information_desk_person: Project Motivation
 
-Earthquakes are a function of mass shifting, all other structural elements being equal, the lighter the roof the lower the center of mass and, therefore, less likely it is to collapse or crumble. This means that roofs made out of wood tiles or asphalt are better than, say, brick, tile, or a heavy metal roof. Manually identifying the rooftop material can take several weeks. In emergency situations where time is of the essence, it is critical to rapidly identify which houses have a high likelihood of collapsing during an earthquake. By using deep learning, we can do that!
-
+In emergency situations, where time is of the essence, it can be critical to rapidly identify which houses have a higher likelihood of collapsing during a natural catastrophe such as a storm or an earthquake. By using deep learning, we can explore how to design a model which can be used to classify rooftop pictures taken by drones. This may help in identifying houses that are likely to collapse.
 
 
 ## :clipboard: Methods Used
@@ -39,10 +38,8 @@ Earthquakes are a function of mass shifting, all other structural elements being
 ## :eight_spoked_asterisk: Running this program
 
 1. Download the dataset for Borde Rural, Colombia which is available in this [Google Drive folder](https://drive.google.com/drive/folders/1aaBw9ImjmQ_WFaIIITBrgJtOSvgfh9tY?usp=sharing). Ensure the downloaded folder is named "borde_rural" and place it in the same folder as the rest of coding files that you got from this repository.
-2.  Jupyter notebook Vs Source Code
-  * Download the *aerial-imagery-notebook* and run the Jupyter notebook with Google Colab
-  * Download the *aerial-imagery-source* and run the file "main" using an IDE or terminal.<br>
-  :name_badge: Ensure that you have specified the location of your downloaded files in the program.
+2. * Download all the files in this repository and run the file "main" using an IDE or terminal.<br>
+  :name_badge: Ensure that you have correctly specified the location of your downloaded files in the program.
 
 
 ## :tea: Requirements
@@ -54,3 +51,10 @@ Earthquakes are a function of mass shifting, all other structural elements being
 * Pyproj    For cartographic projections and coordinate transformations
 * No GPU required (For now)
 * Your favorite playlist
+
+
+## :tea: Contribution
+ * You can contribute to this repository by indicating other 
+ 
+## :tea: Acknowledgements
+ * Special thanks to Hugo Larochelle for his guidance on this project and providing useful advice on using transfer learning.
