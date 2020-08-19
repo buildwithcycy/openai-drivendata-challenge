@@ -13,7 +13,7 @@ Our data consists of a set of overhead imagery taken using drones in seven locat
 *   Incomplete
 *   Other
 
-In this repository, we apply deep learning methods to classify the rooftop material of buildings located in **Borde Rural**, **Colombia**
+In this repository, we apply deep learning methods to classify the rooftop material of buildings located in **Borde Rural**, **Colombia**.
 
 ## :information_desk_person: Project Motivation
 
@@ -38,7 +38,7 @@ Earthquakes are a function of mass shifting, all other structural elements being
 
 ## :eight_spoked_asterisk: Running this program
 
-1. Download the data for Borde Rural, Colombia which is available in this repository.
+1. Download the data for Borde Rural, Colombia which is available in this [Google Drive folder](https://drive.google.com/drive/folders/1aaBw9ImjmQ_WFaIIITBrgJtOSvgfh9tY?usp=sharing). Ensure the downloaded folder is named "borde_rural" and place it in the same folder as the rest of coding files that you got from this repository.
 2.  Jupyter notebook Vs Source Code
   * Download the *aerial-imagery-notebook* and run the Jupyter notebook with Google Colab
   * Download the *aerial-imagery-source* and run the file "main" using an IDE or terminal.<br>
