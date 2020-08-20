@@ -54,7 +54,8 @@ In emergency situations, where time is of the essence, it can be critical to rap
 
 
 ## :tea: Contribution
- * You can contribute to this repository by indicating other 
+ * You can contribute to this repository by forking this repository, playing with the code, and adding your machine model. Any contributions you make are greatly appreciated.
  
 ## :tea: Acknowledgements
- * Special thanks to Hugo Larochelle for his guidance on this project and providing useful advice on using transfer learning.
+ * Special thanks to Hugo Larochelle for his amazing guidance on this project and providing useful advice on using transfer learning.
+
