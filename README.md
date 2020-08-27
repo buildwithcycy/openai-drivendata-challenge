@@ -15,6 +15,8 @@ Our data consists of a set of overhead imagery taken using drones in seven locat
 
 In this repository, we apply deep learning methods to classify the rooftop material of buildings located in **Borde Rural**, **Colombia**.
 
+## Check out the [*Slides*] (https://github.com/buildwithcycy/openai-drivendata-challenge/blob/master/aerial-imagery-classification-slides.pdf) to get an overview of the project.
+
 ## :information_desk_person: Project Motivation
 
 In emergency situations, where time is of the essence, it can be critical to rapidly identify which houses have a higher likelihood of collapsing during a natural catastrophe such as a storm or an earthquake. By using deep learning, we can explore how to design a model which can be used to classify rooftop pictures taken by drones. This may help in identifying houses that are likely to collapse.
@@ -53,9 +55,10 @@ In emergency situations, where time is of the essence, it can be critical to rap
 * Your favorite playlist
 
 
-## :tea: Contribution
- * You can contribute to this repository by forking this repository, playing with the code, and adding your machine model. Any contributions you make are greatly appreciated.
+## :smiley: Contribution
+ * You can contribute by forking this repository, playing with the code, or adding your machine model. Any contributions you make are greatly appreciated.
  
-## :tea: Acknowledgements
+## :pray: Acknowledgements
  * Special thanks to Hugo Larochelle for his amazing guidance on this project and providing useful advice on using transfer learning.
+ * Certain figures in the slides are from the Deep Learning open source repository by Andrew Glassner.
 
