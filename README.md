@@ -15,7 +15,7 @@ Our data consists of a set of overhead imagery taken using drones in seven locat
 
 In this repository, we apply deep learning methods to classify the rooftop material of buildings located in **Borde Rural**, **Colombia**.
 
-## Check out the [*Slides*] (https://github.com/buildwithcycy/openai-drivendata-challenge/blob/master/aerial-imagery-classification-slides.pdf) to get an overview of the project.
+## Check out the [**Slides**](https://github.com/buildwithcycy/openai-drivendata-challenge/blob/master/aerial-imagery-classification-slides.pdf) to get an overview of the project.
 
 ## :information_desk_person: Project Motivation
 
